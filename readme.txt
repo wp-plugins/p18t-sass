@@ -1,6 +1,6 @@
 === P18T Sass ===
 Contributors: p18t
-Tags: css, stylesheet, stylesheets, sass, scss, phamlp, theme, themes
+Tags: programmierwerkstatt, p18t, css, stylesheet, stylesheets, sass, scss, phamlp, theme, themes
 Requires at least: 3.2
 Tested up to: 3.5
 Stable tag: 1.0.0
